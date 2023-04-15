@@ -1,2 +1,0 @@
-# Survey-Management-
-Java
